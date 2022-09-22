@@ -1,31 +1,25 @@
 fileFormatVersion: 2
-guid: 103985b9b69db16438e73296ee4ea9d2
+guid: 5c34487aee6fcb04d90ba53975121cfc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2006500478614595637
-    second: HookSwing_0
+      213: 8759604239909422784
+    second: FeshTurn_0
   - first:
-      213: 4848270826840985078
-    second: HookSwing_1
+      213: 8703861309031489705
+    second: FeshTurn_1
   - first:
-      213: -8032553504559283820
-    second: HookSwing_2
+      213: -7093801345133222135
+    second: FeshTurn_2
   - first:
-      213: -7553448259230721754
-    second: HookSwing_3
+      213: 4302584674011990536
+    second: FeshTurn_3
   - first:
-      213: 1349225865083444447
-    second: HookSwing_4
+      213: 5589552121227470396
+    second: FeshTurn_4
   - first:
-      213: 5274913989418019201
-    second: HookSwing_5
-  - first:
-      213: 6827556310175987235
-    second: HookSwing_6
-  - first:
-      213: 1378723237628177507
-    second: HookSwing_7
+      213: 6037948190246758948
+    second: FeshTurn_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -127,169 +121,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HookSwing_0
+      name: FeshTurn_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.515, y: 0.67000014}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 538697ded8588db10800000000000000
-      internalID: 2006500478614595637
+      spriteID: 0c68ec455ad509970800000000000000
+      internalID: 8759604239909422784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HookSwing_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.49627352, y: 0.6887267}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6fd0fb831a4884340800000000000000
-      internalID: 4848270826840985078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HookSwing_2
+      name: FeshTurn_1
       rect:
         serializedVersion: 2
         x: 64
         y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5187578, y: 0.67000014}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 491cc695523a68090800000000000000
-      internalID: -8032553504559283820
+      spriteID: 9a0a61bdeb35ac870800000000000000
+      internalID: 8703861309031489705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HookSwing_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.55245304, y: 0.7012111}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 629924ff3d2cc2790800000000000000
-      internalID: -7553448259230721754
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HookSwing_4
+      name: FeshTurn_2
       rect:
         serializedVersion: 2
         x: 128
         y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.52, y: 0.64}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdc511a96c969b210800000000000000
-      internalID: 1349225865083444447
+      spriteID: 907652cd241cd8d90800000000000000
+      internalID: -7093801345133222135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HookSwing_5
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.52, y: 0.64}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 189efff5352443940800000000000000
-      internalID: 5274913989418019201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HookSwing_6
+      name: FeshTurn_3
       rect:
         serializedVersion: 2
         x: 192
         y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.52124214, y: 0.6450313}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32634084a4a50ce50800000000000000
-      internalID: 6827556310175987235
+      spriteID: 80a468607f9d5bb30800000000000000
+      internalID: 4302584674011990536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HookSwing_7
+      name: FeshTurn_4
       rect:
         serializedVersion: 2
-        x: 224
+        x: 256
         y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.49003172, y: 0.64503133}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36c6766da75322310800000000000000
-      internalID: 1378723237628177507
+      spriteID: c366b4f1a04129d40800000000000000
+      internalID: 5589552121227470396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeshTurn_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aeedb73e91bc350800000000000000
+      internalID: 6037948190246758948
       vertices: []
       indices: 
       edges: []

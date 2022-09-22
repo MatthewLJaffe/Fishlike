@@ -1,31 +1,25 @@
 fileFormatVersion: 2
-guid: 103985b9b69db16438e73296ee4ea9d2
+guid: 3118a1f4c186e03419224c87f9679075
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2006500478614595637
-    second: HookSwing_0
+      213: -3480600622840033530
+    second: FeeshSwim_0
   - first:
-      213: 4848270826840985078
-    second: HookSwing_1
+      213: -4252461830850662590
+    second: FeeshSwim_1
   - first:
-      213: -8032553504559283820
-    second: HookSwing_2
+      213: 4052012585650737798
+    second: FeeshSwim_2
   - first:
-      213: -7553448259230721754
-    second: HookSwing_3
+      213: -6575998103142585146
+    second: FeeshSwim_3
   - first:
-      213: 1349225865083444447
-    second: HookSwing_4
+      213: -8883647928005071559
+    second: FeeshSwim_4
   - first:
-      213: 5274913989418019201
-    second: HookSwing_5
-  - first:
-      213: 6827556310175987235
-    second: HookSwing_6
-  - first:
-      213: 1378723237628177507
-    second: HookSwing_7
+      213: -5084537427258042751
+    second: FeeshSwim_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -127,169 +121,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HookSwing_0
+      name: FeeshSwim_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.515, y: 0.67000014}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 538697ded8588db10800000000000000
-      internalID: 2006500478614595637
+      spriteID: 60fcd9eac2c62bfc0800000000000000
+      internalID: -3480600622840033530
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HookSwing_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.49627352, y: 0.6887267}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6fd0fb831a4884340800000000000000
-      internalID: 4848270826840985078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HookSwing_2
+      name: FeeshSwim_1
       rect:
         serializedVersion: 2
         x: 64
         y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5187578, y: 0.67000014}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 491cc695523a68090800000000000000
-      internalID: -8032553504559283820
+      spriteID: 24f2d3fce783cf4c0800000000000000
+      internalID: -4252461830850662590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HookSwing_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.55245304, y: 0.7012111}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 629924ff3d2cc2790800000000000000
-      internalID: -7553448259230721754
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HookSwing_4
+      name: FeeshSwim_2
       rect:
         serializedVersion: 2
         x: 128
         y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.52, y: 0.64}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdc511a96c969b210800000000000000
-      internalID: 1349225865083444447
+      spriteID: 682df196af3ab3830800000000000000
+      internalID: 4052012585650737798
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HookSwing_5
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.52, y: 0.64}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 189efff5352443940800000000000000
-      internalID: 5274913989418019201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HookSwing_6
+      name: FeeshSwim_3
       rect:
         serializedVersion: 2
         x: 192
         y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.52124214, y: 0.6450313}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32634084a4a50ce50800000000000000
-      internalID: 6827556310175987235
+      spriteID: 6cc2b8af09c5db4a0800000000000000
+      internalID: -6575998103142585146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HookSwing_7
+      name: FeeshSwim_4
       rect:
         serializedVersion: 2
-        x: 224
+        x: 256
         y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.49003172, y: 0.64503133}
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36c6766da75322310800000000000000
-      internalID: 1378723237628177507
+      spriteID: 93d6f9de641f6b480800000000000000
+      internalID: -8883647928005071559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeeshSwim_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1861b1126281079b0800000000000000
+      internalID: -5084537427258042751
       vertices: []
       indices: 
       edges: []
